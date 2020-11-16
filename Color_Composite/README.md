@@ -1,4 +1,4 @@
-# Mini-projects-of-images-processing
+# Color_Composite
 
 A color image made by assigning red, green, and blue colors to each of the separate monochrome bands of a multispectral image and then superimposing them.
 
@@ -9,4 +9,5 @@ This combination is used to obtain pseudo-natural colors under certain condition
 Vegetation is visible in shades of green, urbanized areas are represented by white, gray, or purple, and soils, sand, and minerals are shown in a variety of colors. Due to the almost complete absorption of solar radiation in the middle IR range by water, snow, and ice, coastlines and water objects are well distinguished. Snow and ice appear as dark blue, and water as black or blue. Flooded areas are a very dark blue and almost black, whereas in composition 3-2-1, shallow flooded areas are gray and difficult to distinguish.
 
 One application of this combination is the monitoring of forest fires. Surfaces with elevated temperatures, such as forest fires and calderas of volcanoes, saturate the image in medium IR channels and are displayed in shades of red or yellow.
- If you need more information about color composite, so getting https://crisp.nus.edu.sg/~research/tutorial/opt_int.htm
+
+If you need more information about color composite, so getting https://crisp.nus.edu.sg/~research/tutorial/opt_int.htm
