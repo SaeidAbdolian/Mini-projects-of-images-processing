@@ -4,3 +4,4 @@ This is the gamma that you are controlling when you perform monitor calibration 
 
 Recall that the display gamma compensates for the image file's gamma, and that the net result of this compensation is the system/overall gamma. For a standard gamma encoded image file (—), changing the display gamma (—) will therefore have the following overall impact (—) on an image:
 
+image_2020-11-18_185938.png
