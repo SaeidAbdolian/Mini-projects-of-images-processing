@@ -6,3 +6,4 @@ Recall that the display gamma compensates for the image file's gamma, and that t
 
 <img src="img/1.PNG" width="1000" height="200" >
 
+<img src="img/2.PNG" width="1000" height="200" >
