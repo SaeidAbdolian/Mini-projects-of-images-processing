@@ -6,4 +6,4 @@ It is a widely used effect in graphics software, typically to reduce image noise
 
 Gaussian_Filter is also used as a pre-processing stage in computer vision algorithms in order to enhance image structures at different scales—see scale space representation and scale space implementation.
 
-img/image_2020-11-19_233430.png
+<img src="img/image_2020-11-19_233430.png" >
