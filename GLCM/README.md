@@ -7,4 +7,6 @@ A statistical method of examining texture that considers the spatial relationshi
 
 After you create the GLCMs using graycomatrix, you can derive several statistics from them using graycoprops. These statistics provide information about the texture of an image.
 
+If you want to know about GLCM more. I ofer to you read the PDF which i put in GLCM folder . The name of PDF is What_is_GLCM.
+
 <img src="img/GLCM.png" width="800" height="500">
