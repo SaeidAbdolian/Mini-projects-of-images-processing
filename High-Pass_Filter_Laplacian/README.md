@@ -27,3 +27,5 @@ The following examples in this section will focus on some of the basic filters a
 we are using **High-Pass-Laplacian-Filter** .
 
 <img src="https://mipav.cit.nih.gov/pubwiki/images/8/81/ExampleLaplacianProcessing.jpg" >
+
+You can see more information about the details of process in "https://www.pcigeomatics.com/geomatica-help/tasks/focus_t/Processing_SS83.html"
