@@ -27,3 +27,6 @@ Gaussian Filter
 we are using High-Pass-Sobel-Filter .
 
 Edge detection filters focus on finding sharp contrast or border between colors in an image to create edges or lines.
+
+<img src="https://www.researchgate.net/profile/Claudius_Kabwe2/publication/333817068/figure/fig5/AS:770718308511744@1560764972095/Watermarked-image-filtered-using-the-Prewitt-high-pass-filter.jpg" >
+
