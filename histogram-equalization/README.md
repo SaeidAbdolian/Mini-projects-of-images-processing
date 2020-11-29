@@ -16,7 +16,7 @@ A signal transform equivalent to histogram equalization also seems to happen in 
 
 Histogram equalization is a specific case of the more general class of histogram remapping methods. These methods seek to adjust the image to make it easier to analyze or improve visual quality (e.g., retinex)
 
-<img src="img/histogram.png" width="800" height="500">
+<img src="img/histogram.PNG" width="800" height="500">
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYo8HnyFdjtTG7beeuHqHSSQxGbCJxxmRniA&usqp=CAU" width="500" height="200">
 
