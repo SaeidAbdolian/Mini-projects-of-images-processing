@@ -18,6 +18,6 @@ Histogram equalization is a specific case of the more general class of histogram
 
 <img src="img/histogram.png" width="800" height="500">
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYo8HnyFdjtTG7beeuHqHSSQxGbCJxxmRniA&usqp=CAU" width="800" height="500">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYo8HnyFdjtTG7beeuHqHSSQxGbCJxxmRniA&usqp=CAU" width="500" height="200">
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe3HJY6yqEj_nhC1kdzwjNn5yd_RCnM0XEJQ&usqp=CAU" width="800" height="500">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe3HJY6yqEj_nhC1kdzwjNn5yd_RCnM0XEJQ&usqp=CAU" width="500" height="200">
