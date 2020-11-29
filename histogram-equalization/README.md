@@ -10,12 +10,12 @@ Histogram equalization often produces unrealistic effects in photographs; howeve
 
 There are two ways to think about and implement histogram equalization, either as image change or as palette change. The operation can be expressed as P(M(I)) where I is the original image, M is histogram equalization mapping operation and P is a palette. If we define a new palette as P'=P(M) and leave image I unchanged then histogram equalization is implemented as palette change. On the other hand, if palette P remains unchanged and image is modified to I'=M(I) then the implementation is by image change. In most cases palette change is better as it preserves the original data.
 
-Modifications of this method use multiple histograms, called subhistograms, to emphasize local contrast, rather than overall contrast. Examples of such methods include adaptive histogram equalization, contrast limiting adaptive histogram equalization or CLAHE, multipeak histogram equalization (MPHE), and multipurpose beta optimized bihistogram equalization (MBOBHE). The goal of these methods, especially MBOBHE, is to improve the contrast without producing brightness mean-shift and detail loss artifacts by modifying the HE algorithm.[1]
+Modifications of this method use multiple histograms, called subhistograms, to emphasize local contrast, rather than overall contrast. Examples of such methods include adaptive histogram equalization, contrast limiting adaptive histogram equalization or CLAHE, multipeak histogram equalization (MPHE), and multipurpose beta optimized bihistogram equalization (MBOBHE). The goal of these methods, especially MBOBHE, is to improve the contrast without producing brightness mean-shift and detail loss artifacts by modifying the HE algorithm.
 
-A signal transform equivalent to histogram equalization also seems to happen in biological neural networks so as to maximize the output firing rate of the neuron as a function of the input statistics. This has been proved in particular in the fly retina.[2]
+A signal transform equivalent to histogram equalization also seems to happen in biological neural networks so as to maximize the output firing rate of the neuron as a function of the input statistics. This has been proved in particular in the fly retina.
 
 Histogram equalization is a specific case of the more general class of histogram remapping methods. These methods seek to adjust the image to make it easier to analyze or improve visual quality (e.g., retinex)
 
-<img scr="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYo8HnyFdjtTG7beeuHqHSSQxGbCJxxmRniA&usqp=CAU" >
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYo8HnyFdjtTG7beeuHqHSSQxGbCJxxmRniA&usqp=CAU" >
 
-<img scr="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe3HJY6yqEj_nhC1kdzwjNn5yd_RCnM0XEJQ&usqp=CAU" >
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe3HJY6yqEj_nhC1kdzwjNn5yd_RCnM0XEJQ&usqp=CAU" >
