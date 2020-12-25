@@ -1,5 +1,8 @@
 # Mini-projects-of-images-processing
-matlab python
+
+python and matlab programming
+
+python programming is on google colab.
 
 field of Remote Sensing
 
