@@ -12,8 +12,10 @@ field of photogrametry
 
 and etc.
 
-# Digital image transformations
+## Digital image transformations
+
 **Filtering**
+
 Digital filters are used to blur and sharpen digital images. Filtering can be performed by:
 
 convolution with specifically designed kernels (filter array) in the spatial domain
